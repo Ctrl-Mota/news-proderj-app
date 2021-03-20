@@ -1,0 +1,10 @@
+{
+  "name": "NewsProderjApp",
+  "displayName": "news-proderj-app",
+  "expo": {
+    "name": "news-proderj-app",
+    "slug": "news-proderj-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
